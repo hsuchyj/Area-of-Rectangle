@@ -20,7 +20,6 @@ public class Rectangle {
 	
 	public double Area()
 	{
-		// TODO Implement wArea() function with the correct formula
 		double x = getLength() * getWidth();
 		return x;
 	}	
